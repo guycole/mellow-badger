@@ -1,0 +1,2 @@
+rtl_fm -f 98.3M -M wfm -s 256k -A fast -r 64k -l 0 -E deemp | aplay -t raw -r 44100 -c 1 -f S16_LE
+
