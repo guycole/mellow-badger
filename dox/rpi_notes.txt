@@ -1,0 +1,12 @@
+must boot headless.
+needs ssh
+static ip
+no wifi
+route to wombat
+
+to configure, must mount raspian image
+
+https://forums.raspberrypi.com/viewtopic.php?t=57775
+
+2022-01-28-raspios-buster-armhf-lite.zip
+
