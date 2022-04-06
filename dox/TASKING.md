@@ -22,10 +22,7 @@ Specify receiver behavior.
 1. Manual Tune
     1. Tune for specified frequency and stay.
     1. Additional behavior:
-        1. Stay on frequency for duration of signal (plus short pause)
-        1. Stay on frequency for specified duration of signal (i.e. 5 second sample)
         1. Record option
-        1. Skip if data option
         1. Stream audio option
 
 1. ADSB Support
