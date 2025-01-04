@@ -1,0 +1,8 @@
+{
+  "tasking":
+    [
+      { "task":"manual", "frequency":"162.5M", "record": "true" }
+      { "task":"band_search", "lower_frequency": "100M", "upper_frequency": "200M", "record": "true" }
+     { "task":"frequency_scan", ["1", "2", "3"], "record": "true" }
+    ]
+}
